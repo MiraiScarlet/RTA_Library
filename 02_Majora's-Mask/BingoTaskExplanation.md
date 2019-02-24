@@ -13,7 +13,7 @@ http://www.speedrunslive.com/tools/mm-bingo/
 - Biggest Quiver → 最大の矢立て
 - Seahorse → タツノオトシゴ
 
-- Happiness Seal → 団員手帳の終了章をつける
+- Happiness Seal → 団員手帳のリボン(完了印)をつける
 
 ## タスク系
 
@@ -24,7 +24,7 @@ http://www.speedrunslive.com/tools/mm-bingo/
   - 10個のビンにそれぞれ違う中身を入れる
   
 - Curiosity Shop Owner Happiness Seal
-  - マニ屋のおじさんの終了章(団員手帳)
+  - マニ屋のおじさん(のリボン(団員手帳))
   
 - Diagonal of 4 Item Slots
   - アイテム画面の対角線上4つにアイテムを揃える(ビン全部、時のオカリナ、権利書系)
