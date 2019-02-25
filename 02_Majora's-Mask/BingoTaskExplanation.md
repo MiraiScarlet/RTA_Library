@@ -109,3 +109,8 @@ https://jsbotw.web.fc2.com/bingo/majora.html
 - Defeat Garo Ninja
   - ガロを倒す(イカーナ渓谷・要:まことのメガネ・ガロのお面)
   
+- Rock Sirloin above head
+  - ロース岩を掲げる
+  
+- Change GBT Water Direction
+  - グレートベイの神殿の水流の流れを変える
