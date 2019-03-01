@@ -4,8 +4,11 @@ http://www.speedrunslive.com/tools/mm-bingo/
 
 https://jsbotw.web.fc2.com/bingo/majora.html
 
-分かりづらいタスクのまとめとかお役立ち情報とか
+上記日本語訳と原文同時表示(ポップアップにすると表示される)
 
+https://jsbotw.web.fc2.com/bingo/majoras.html
+
+分かりづらいタスクのまとめとかお役立ち情報とか
 
 ## ルールについて
 - 機種制限なし
@@ -20,11 +23,11 @@ https://jsbotw.web.fc2.com/bingo/majora.html
   - デクナッツの仮面
   - 銀行に101ルピー
   - 時計台前のハートのかけら取得
-- レースファイル作成に関し、**暗号の事前把握は可**
+- レースファイル作成に関し、**暗号系の事前把握は可**
   
 - VCで用意が面倒な場合は以下のセーブファイルを使用するのがおすすめ
   - [Speedrun.com Majora's Mask Resource - Wii VC Race File](https://www.speedrun.com/saves/Race_Files_lxv5j.zip)
-  - このセーブファイルはボンバーズの暗号、海のクモ館の暗号、宝くじ屋の番号が以下の通りに設定されている
+  - このセーブファイルは暗号が以下の通りに設定されている
     - ボンバーズ:54321
     - 海のクモ館:赤青赤青赤青
     - 宝くじ屋:全日「111」
