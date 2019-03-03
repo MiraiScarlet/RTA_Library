@@ -46,8 +46,8 @@
       - 0x0-0x13f 全て00
       - 0x180-0x1bb 全て00
       - 0x1bf-0x1ce 9d e2 00 cc e4 bb 6d 04 e1 da e4 de 36 33 17 5c
-      - 0x1d2-0x1db ac e5 e3 8e 4c 68 00 00 00 00
-      - 0x1f1- 0x1f2 a8 00
+      - 0x1d0-0x1db 00 01 ac e5 e3 8e 4c 68 00 00 00 00
+      - 0x1f1-0x1f2 a8 00
       - 0x221 00
     - .tmd
       - 0x4-0x13f 全て00
