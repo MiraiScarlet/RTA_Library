@@ -88,7 +88,7 @@ https://jsbotw.web.fc2.com/bingo/majoras.html
   - マニ屋のおじさん(のリボン(団員手帳))
   
 - Diagonal of 4 Item Slots
-  - アイテム画面の対角線上4つにアイテムを揃える(ビン全部、時のオカリナ、権利書系)
+  - アイテム画面の対角線上4つにアイテムを揃える
   
 - Row of 6 Masks
   - 横一列のお面を揃える
