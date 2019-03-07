@@ -1,18 +1,19 @@
 MM randomizer Manual(日本語訳版)
 
+現在の最新ver:[1.1(2019/02/27)](https://www.mediafire.com/file/in9ju775hi0z553/MM-Randomiser-dev-2019-02-27.zip/file)
+
 **<自己責任の元で使用してください。>**
  
   - 使用方法
-    - 1."北米版"ムジュラの仮面ROMデータを用意する
+    - 1.**北米版**ムジュラの仮面ROMデータを用意する
       - 日本版はバージョン問わず使用不可
       - 日本版ゼルコレ版も使用不可
-      - 北米版VCから吸い出したROMは使用可能、吸出し方法は[こちらを参考](https://ch.nicovideo.jp/1412kigou/blomaga/ar1130854
-)
+      - 北米版VCから吸い出したROMは使用可能、吸出し方法は[こちらを参考](https://ch.nicovideo.jp/1412kigou/blomaga/ar1130854)
+      
     - 2.romイメージのフォーマットを変換する(z64化)
       - MM randomizer.exeを起動し、toolsからByteswapを実行する
       - ファイルを指定した後、完了したらファイル拡張子を.z64に変更する
-      - うまく出来ない場合は[このツール](https://www.zophar.net/utilities/n64aud/tool-n64.html
-)を使用した方がいいかも？(未検証)
+      - うまく出来ない場合は[このツール](https://www.zophar.net/utilities/n64aud/tool-n64.html)を使用した方がいいかも？(未検証)
 
     - 3.ランダマイズ化する
       - MM randomizer.exeを起動し、Open ROMから先程用意したROMファイルを指定する
