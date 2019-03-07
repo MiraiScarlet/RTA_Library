@@ -14,7 +14,7 @@
   - [gecko OS](https://wiibrew.org/wiki/Gecko_OS)
   - [WiiMOD](http://revowii.blog.fc2.com/blog-entry-25.html)等wadインストール用ツール
   - 北米版ムジュラの仮面wadファイル
-    - 日本版wadは使用できない**(日本版を作る場合でも北米版が必要)**
+    - 日本版wadは使用できない **(日本版を作る場合でも北米版が必要)**
     - [Yet Another Bluedump mod](https://wiidatabase.de/downloads/wii-tools/yet-another-bluedump-mod/)等でリージョン解除したものを推奨
   - [zc用パッチファイル・セーブファイル](https://zc.zeldacodes.org/)
     - 使用したい言語verを「console」から選択、Patch「0.1」はCSカット等が含まれている
