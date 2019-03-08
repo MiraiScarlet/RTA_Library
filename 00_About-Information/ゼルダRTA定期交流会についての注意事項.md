@@ -1,9 +1,8 @@
 # ゼルダRTA定期交流会について
 二週間に１回、週末に行われている、すばさん主催のゼルダRTAに関わる交流会
 
-## 目的
+## 目的及びやっていること
   - 作品/カテゴリ問わず、いろんなやり方でゼルダRTAを広める為
-  
   - 現在は時のオカリナビンゴレースを中心に、ムジュラ、BotW等の並走を行っています
   - 告知等はdiscordの[ゼルダRTAサーバー](https://t.co/Dt2xANGfV4)及び[すばさんのTwitter](https://twitter.com/sva16162)、各総合コミュニティで行います
   - 過去の開催履歴等は[こちら](https://docs.google.com/spreadsheets/d/1-0K45vdizhqbNQM0wqqONBB0q9Bya6du2BH0LU-E9CA/edit#gid=0)
