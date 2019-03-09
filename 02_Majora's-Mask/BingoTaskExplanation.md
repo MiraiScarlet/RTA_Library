@@ -63,7 +63,7 @@ https://jsbotw.web.fc2.com/bingo/majoras.html
 
 - Razor Sword → フェザーソード
 - Gilded Sword → 金剛の剣
-- Lullaby Intro → 半分だけの子守唄**(ゴロンのララバイを取得したら未達成扱い)**
+- Lullaby Intro → 半分だけの子守唄 **(ゴロンのララバイを取得したら未達成扱い)**
 - Magical Mushroom → 魔法のキノコ
 - Powder Keg → 大爆弾
 - Circus Leader's Mask → 座長のお面
