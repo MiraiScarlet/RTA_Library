@@ -375,7 +375,7 @@ MM randomizer Manual(日本語訳版)※2021年改訂版
         銀行の報酬を200/1000/5000から200/500/1000に変更します。
         銀行の最大容量も1000rになります。
 
-  -Comfort Options
+  - Comfort Options
   
     - Disable crit wiggle
         瀕死時のよろけをなくします。
@@ -410,7 +410,7 @@ MM randomizer Manual(日本語訳版)※2021年改訂版
     - Elegy speedups
         ぬけがらのエレジーの演出を早くします。
   
-  -Gossip Stone hints
+  - Gossip Stone hints
   
     - Free hints
         まことのお面なしでもヒントを読むことができます。
@@ -423,7 +423,7 @@ MM randomizer Manual(日本語訳版)※2021年改訂版
         Relevant    : バニラのようなゴシップストーンのヒント体験を提供しようとします。
         Competitive : 複数のプレイヤーが同じシードをプレイしている時に使用することを目的とした、慎重に作られたヒントシステム。特定の場所のヒントを提供したり、地域の有用性に関する様々なヒントを提供します。
         
-  -Cosmetic Customization
+  - Cosmetic Customization
   
     Player Model
 
