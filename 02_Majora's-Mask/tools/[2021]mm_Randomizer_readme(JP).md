@@ -1,7 +1,10 @@
 MM randomizer Manual(日本語訳版)※2021年改訂版
 
 現在の最新ver:[1.13.0.13(2021/01/10)](https://github.com/ZoeyZolotova/mm-rando/releases/tag/v1.13.0.13)
-ベータ版:1.14.0.5(2021/04/27) discord上#beta-release
+
+β版:1.14.0.5(2021/04/27) discord上#beta-release
+
+※β版(1.14)は[.Net 5.0 Runtime](https://dotnet.microsoft.com/download/dotnet/5.0)の導入が必要
 
 **<自己責任の元で使用してください。>**
  
@@ -9,11 +12,10 @@ MM randomizer Manual(日本語訳版)※2021年改訂版
     - 1.**北米版**ムジュラの仮面ROMデータを用意する
       - 日本版はバージョン問わず使用不可
       - 日本版ゼルコレ版は使用不可
-      - 北米版VCから吸い出したROMは使用可能、吸出し方法は[こちらを参考](https://ch.nicovideo.jp/1412kigou/blomaga/ar1130854)
+      - 北米版WiiVCから吸い出したROMは使用可能、吸出し方法は[こちらを参考](https://ch.nicovideo.jp/1412kigou/blomaga/ar1130854)
+      - (試してないけど)北米版WiiUVCから吸い出したROMも多分大丈夫だと思う
       
     - 2.romイメージのフォーマットを変換する(z64化)
-      - ~~MM randomizer.exeを起動し、toolsからByteswapを実行する~~
-      - ~~ファイルを指定した後、完了したらファイル拡張子を.z64に変更する~~
       - [ツール](https://www.zophar.net/utilities/n64aud/tool-n64.html)を使用して、romイメージフォーマットを変換する
 
     - 3.ランダマイズする
